@@ -11,7 +11,7 @@
 }
 
 body {
-    background: center / cover no-repeat url("/aaaa/images/background.jpg");
+    background: center / cover no-repeat url("./images/background.jpg");
 }
 
 main {
